@@ -2,6 +2,7 @@
 End to End ML project to predict Air Quality Index with code deployment to AWS
 
 Work:
+
 Pre-requisites and Resources
 
 Data Collection and Problem Statement
