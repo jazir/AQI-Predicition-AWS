@@ -11,7 +11,7 @@ Exploratory Data Analysis
 
 Data Preparation using Sklearn
 
-Selecting and Training a few Machine Learning Models
+Model training using Random Forest Regressor
 
 Cross-Validation and Hyperparameter Tuning using Sklearn
 
