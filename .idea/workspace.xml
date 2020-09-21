@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80b43347-2cac-4b9c-9436-87f5eeb009d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.ebextensions/python.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AQI Data Analysis and Prediction-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AQI-draft-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AQI_Copy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AQI Data Analysis and Prediction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/OKCgov_Data/2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/OKCgov_Data/2018.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/OKCgov_Data/2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2017/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2018/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/tutiempo_Data/2019/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements with versions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ho0W4lXaduKxBTEdA9JnCM5N6q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AQI-Prediction_AmazonDeploy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b43347-2cac-4b9c-9436-87f5eeb009d8" name="Default Changelist" comment="" />
+      <created>1600662166947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600662166947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600699237406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600699237406" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1600665616629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600665616629" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1600665616629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600665616629" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1600665616628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600665616628" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1600665616629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600665616629" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1600664526639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600664526639" />
+  </component>
+</project>
